@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Osenat Alonge - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #000000; /* Black background */
+            color: #000000; /* Black text color */
+        }
+
+        header {
+            background: #5D3FD3; /* Deep purple */
+            color: #ffffff; /* White text */
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            color: #ffffff; /* White link color */
+            text-decoration: none;
+        }
+
+        h1, h2, h3, h4 {
+            margin: 10px 0;
+        }
+
+        .profile-image {
+            width: 150px; /* Adjust width as needed */
+            height: auto; /* Maintain aspect ratio */
+            border-radius: 50%; /* Make it circular (optional) */
+            margin-bottom: 20px; /* Space below the image */
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px auto;
+            background: #E6E6FA; /* Light purple background */
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+            max-width: 800px; /* Max width for content */
+        }
+
+        .project {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #5D3FD3; /* Border color (deep purple) */
+            border-radius: 5px;
+            background-color: #f0e6ff; /* Slightly lighter purple for projects */
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #5D3FD3; /* Deep purple for footer */
+            color: #ffffff; /* White text in footer */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Osenat Alonge</h1>
+        <h2>Senior DevOps Engineer</h2>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#hireme">Hire Me</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h3>About Me</h3>
+        <img src="images/profile.jpg" alt="Osenat Alonge" class="profile-image">
+        <p>A dedicated DevOps Engineer with over 2 years of hands-on experience, I excel in leading teams and implementing DevOps practices to enhance software delivery processes. My expertise lies in building and managing Infrastructure as Code (IaC), automating CI/CD pipelines, and optimizing cloud infrastructure. I am passionate about empowering teams to resolve IT challenges and drive operational excellence through advanced monitoring systems. Proficient in a diverse range of technologies, including Terraform, Docker, Jenkins, and AWS, I am committed to delivering scalable, reliable, and cost-effective solutions.</p>
+    </section>
+
+    <section id="projects">
+        <h3>Projects</h3>
+
+        <div class="project">
+            <h4>Dynamic Rental Car Web App</h4>
+            <p>I recently deployed a Dynamic Rental Car Web App on AWS using Terraform, Docker, Amazon ECR, and ECS 🌐</p>
+            <p><strong>Project Repo:</strong> <a href="https://lnkd.in/eqVY_fVi" target="_blank">View on LinkedIn</a></p>
+        </div>
+
+        <div class="project">
+            <h4>Deployment of 2048 Game</h4>
+            <p>Deployment of the 2048 Game on AWS using Docker.</p>
+            <p><strong>Project Repo:</strong> <a href="https://lnkd.in/e5jSxvn2" target="_blank">View on LinkedIn</a></p>
+        </div>
+
+        <div class="project">
+            <h4>CICD Project: Blogging App</h4>
+            <p>Production Level Blog APP Deployment using EKS, Nexus, SonarQube, Trivy with Monitoring Tools (Prometheus, Grafana, and Blackbox for metrics). Production-Level CICD Pipeline and attached URL to the domain. Special thanks to Aditya Jaiswal; your videos and the code provided helped me put all of this together.</p>
+            <p><strong>Project Repo:</strong> <a href="https://lnkd.in/evGFRbu9" target="_blank">View on LinkedIn</a></p>
+        </div>
+    </section>
+
+    <section id="hireme">
+        <h3>Hire Me</h3>
+        <h4>Soft Skills</h4>
+        <ul>
+            <li>Collaboration</li>
+            <li>Leadership</li>
+            <li>Emotional Intelligence</li>
+            <li>Adaptability</li>
+            <li>Excellent Communication</li>
+        </ul>
+        <h4>My Skills</h4>
+        <h5>Technical Skills</h5>
+        <ul>
+            <li>Linux Administration</li>
+            <li>Programming and Scripting (Python, Bash-scripting)</li>
+            <li>Version Control (Git)</li>
+            <li>Containerization & Orchestration (Docker, Kubernetes)</li>
+            <li>Networking & Security</li>
+            <li>Cloud Platforms (AWS, Azure, GCP)</li>
+            <li>Monitoring Tools</li>
+            <li>Continuous Integration & Deployment (Jenkins, GitLab CI/CD)</li>
+            <li>Infrastructure as Code (Terraform, Ansible)</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h3>Contact</h3>
+        <p>Name: Osenat Alonge</p>
+        <p>Email: <a href="mailto:alongemiracle333@gmail.com">alongemiracle333@gmail.com</a></p>
+        <p>Phone: <a href="tel:+447787215455">+44 7787 215455</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/osenat-alonge-84379124b" target="_blank">View Profile</a></p>
+        <p>GitHub: <a href="https://github.com/etaoko333" target="_blank">View Profile</a></p>
+        <h4>Get In Touch</h4>
+        <form>
+            <label for="name">Your Name</label><br>
+            <input type="text" id="name" name="name" required><br>
+            <label for="email">Your Email</label><br>
+            <input type="email" id="email" name="email" required><br>
+            <label for="subject">Subject</label><br>
+            <input type="text" id="subject" name="subject" required><br>
+            <label for="message">Your Message</label><br>
+            <textarea id="message" name="message" rows="4" required></textarea><br>
+            <button type="submit">Send Message</button>
+        </form>
+        <div class="social-links">
+            <a href="https://github.com/etaoko333" target="_blank">GitHub</a>
+            <a href="mailto:alongemiracle333@gmail.com">Email</a>
+            <a href="https://www.linkedin.com/in/osenat-alonge-84379124b" target="_blank">LinkedIn</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Osenat Alonge</p>
+    </footer>
+</body>
+</html>
