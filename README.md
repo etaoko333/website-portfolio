@@ -136,5 +136,5 @@ Any questions feel free to contact with me.
 
 Contact:
 URL: https://eta-oko.com
-Linkedin: 
+Linkedin: https://www.linkedin.com/in/osenat-alonge-84379124b
 Email: alongemiracle333@gmail.com
