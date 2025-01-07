@@ -1,6 +1,15 @@
 🌟 Step-by-Step Guide to Building an Eye-Catching Portfolio Website 🌟
 If you're ready to showcase your skills and projects with a professional portfolio, here’s your ultimate guide! 🚀
 
+<img width="960" alt="2025-01-07" src="https://github.com/user-attachments/assets/4ffc16d9-01f1-4532-9067-9f48eaebccba" />
+
+<img width="960" alt="2025-01-06 (14)" src="https://github.com/user-attachments/assets/c42b7aaa-d4a7-44f8-b11d-e862d588b9f7" />
+
+<img width="960" alt="2025-01-06 (15)" src="https://github.com/user-attachments/assets/3a98c072-7152-415f-8526-13a2d7a5b266" />
+
+<img width="960" alt="2025-01-06 (16)" src="https://github.com/user-attachments/assets/db3b711b-b101-45d4-a2b8-2dc5e8e23635" />
+
+
 🔖 Step 1: Plan Your Portfolio
 1. Plan Your Portfolio Structure
 📝 Decide what to include in your portfolio:
@@ -123,4 +132,9 @@ https://54.176.225.99
 ✨ Conclusion
 By following these steps, you'll have a sleek, professional portfolio to showcase your skills and projects. Customize it with animations, unique color palettes, or even advanced features like dark mode. 🌗
 
-https://eta-oko.com
+Any questions feel free to contact with me.
+
+Contact:
+URL: https://eta-oko.com
+Linkedin: 
+Email: alongemiracle333@gmail.com
